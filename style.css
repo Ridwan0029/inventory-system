@@ -1,0 +1,24 @@
+/* body {
+    background-image: url("images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: auto; 
+   } */
+
+.search-product form {
+    display: flex;
+    width: 350px;
+    flex-direction: column;
+  }
+
+  input {
+    margin: 10px 0;
+    padding: 10px;
+  }
+  
+  button {
+    width: 50%;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 15px;
+    align-self: center;
+  }

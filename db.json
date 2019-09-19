@@ -1,0 +1,60 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "tyre",
+        "price": "#50,000",
+        "quantity": 20,
+        "type": "Spare Part"
+      },
+      {
+        "id": 2,
+        "name": "Visco 2000",
+        "price": "#3,500",
+        "quantity": 30,
+        "type": "Lubricant"
+      },
+      {
+        "id": 3,
+        "name": "Alloy Rim",
+        "price": "#60,000",
+        "quantity": 40,
+        "type": "Spare Part"
+      },
+      {
+        "id": 4,
+        "name": "Abro ATF",
+        "price": "#600",
+        "quantity": 50,
+        "type": "Lubricant"
+      },
+      {
+        "id": 5,
+        "name":"Toyota Type TIV ATF",
+        "price": "#8,000",
+        "quantity": 60,
+        "type": "Lubricant"
+      },
+      {
+        "id": 6,
+        "name": "Seat Cover",
+        "price": "#18,000",
+        "quantity": 70,
+        "type": "Accessories"
+      },
+      {
+        "id": 7,
+        "name": "Hardex Gold",
+        "price": "#15,000",
+        "quantity": 80,
+        "type": "Lubricant"
+      },
+      {
+        "id": 8,
+        "name":"Mobil 1",
+        "price": "#20,000",
+        "quantity": 90,
+        "type": "Lubricant"
+      }
+    ]
+  }
